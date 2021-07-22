@@ -1,6 +1,5 @@
 ## Portfolio_overview
-![<iframe width="560" height="315" src="https://www.youtube.com/embed/HBSSr5pLw8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]
-
+[![Portfolio_overview](https://img.youtube.com/vi/HBSSr5pLw8U&list=PLjIH4KrCnFPetLGYm8Z_CTra0WsmQdsco&index=1/0.jpg)](https://www.youtube.com/watch?v=HBSSr5pLw8U&list=PLjIH4KrCnFPetLGYm8Z_CTra0WsmQdsco&index=1)
 
 # Getting Started with Create React App
 
