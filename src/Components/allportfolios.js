@@ -361,5 +361,10 @@ const portfolios = [
         icon1: 'G',
         icon2: 'W',
         image: port33,
-        title: 'simple game - Javascript'
+        title: 'simple game'
     }
+
+
+]
+
+export default portfolios;
