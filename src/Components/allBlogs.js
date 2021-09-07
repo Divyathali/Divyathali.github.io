@@ -58,16 +58,7 @@ const blogs = [
         date : '09',
         month: 'Sep',
         year: '2019'
-    },
-    {
-        id: 7,
-        image: blog3,
-        title: 'Test Blogs data1',
-        link: '',
-        date : '09',
-        month: 'Sep',
-        year: '2019'
-    }
+    }  
 ];
 
 export default blogs;
