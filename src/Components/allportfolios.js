@@ -24,6 +24,13 @@ import port23 from '../img/portImages/stock_predictor.jpeg';
 import port24 from '../img/portImages/fpga_backend.jpeg';
 import port25 from '../img/portImages/memory design.jpg';
 import port26 from '../img/portImages/fpga-design-routing.png';
+import port27 from '../img/portImages/zoom.png';
+import port28 from '../img/portImages/texttospeech.png';
+import port30 from'../img/portImages/mysqldatabase.jpg';
+import port31 from '../img/portImages/songlyricsearch.jpg';
+import port32 from'../img/portImages/expense-tracker-apps.png';
+import port33 from '../img/portImages/bricksgame.jpg';
+
 //const g1=()=>{window.location.href='https://divyathali.github.io/tc_generator/';}
 const portfolios = [
     {
@@ -258,7 +265,7 @@ const portfolios = [
     },
     {
         id: 24,
-        category: 'VLSI Design - Backend Development',
+        category: 'VLSI Design',
         link1: 'https://github.com/Divyathali/VLSI-Backend-developement',
         link2: 'https://github.com/Divyathali/VLSI-Backend-developement',
         icon1: 'G',
@@ -268,7 +275,7 @@ const portfolios = [
     },
     {
         id: 25,
-        category: 'VLSI Design - Backend Development',
+        category: 'VLSI Design',
         link1: 'https://github.com/Divyathali/FPGA-memory-design',
         link2: 'https://github.com/Divyathali/FPGA-memory-design',
         icon1: 'G',
@@ -278,14 +285,81 @@ const portfolios = [
     },
     {
         id: 26,
-        category: 'VLSI Design - Backend Development',
+        category: 'VLSI Design',
         link1: 'https://github.com/Divyathali/FPGA',
         link2: 'https://github.com/Divyathali/FPGA',
         icon1: 'G',
         icon2: 'W',
         image: port26,
         title: 'FPGA Routing design'
+    },
+    {
+        id: 27,
+        category: 'Javascript',
+        link1: 'https://github.com/Divyathali/live_chating_room',
+        link2: 'https://github.com/Divyathali/live_chating_room',
+        icon1: 'G',
+        icon2: 'W',
+        image: port27,
+        title: 'Zoom clone (Basic model)'
+    },
+    {
+        id: 28,
+        category: 'Javascript',
+        link1: 'https://github.com/Divyathali/text_to_speech_website',
+        link2: 'https://github.com/Divyathali/text_to_speech_website',
+        icon1: 'G',
+        icon2: 'W',
+        image: port28,
+        title: 'Text to Speech Website'
+    },
+    {
+        id: 29,
+        category: 'Javascript',
+        link1: 'https://github.com/Divyathali/movie_seat_booking_js',
+        link2: 'https://github.com/Divyathali/movie_seat_booking_js',
+        icon1: 'G',
+        icon2: 'W',
+        image: port3,
+        title: 'Movie seat booking -Front end Design'
+    },
+    {
+        id: 30,
+        category: 'Javascript',
+        link1: 'https://github.com/Divyathali/node-mysql-express-crud',
+        link2: 'https://github.com/Divyathali/node-mysql-express-crud',
+        icon1: 'G',
+        icon2: 'W',
+        image: port30,
+        title: 'My Sql Crud app'
+    },
+    {
+        id: 31,
+        category: 'Javascript',
+        link1: 'https://github.com/Divyathali/Song_lyric_search',
+        link2: 'https://github.com/Divyathali/Song_lyric_search',
+        icon1: 'G',
+        icon2: 'W',
+        image: port31,
+        title: 'Song lyric search Engine'
+    },
+    {
+        id: 32,
+        category: 'Javascript',
+        link1: 'https://github.com/Divyathali/expense_tracker_js',
+        link2: 'https://github.com/Divyathali/expense_tracker_js',
+        icon1: 'G',
+        icon2: 'W',
+        image: port32,
+        title: 'Expense Tracker'
+    },
+    {
+        id: 33,
+        category: 'Javascript',
+        link1: 'https://github.com/Divyathali/breakout_brick_games',
+        link2: 'https://github.com/Divyathali/breakout_brick_games',
+        icon1: 'G',
+        icon2: 'W',
+        image: port33,
+        title: 'simple game - Javascript'
     }
-]
-
-export default portfolios;
