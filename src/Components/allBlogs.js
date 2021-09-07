@@ -8,44 +8,44 @@ const blogs = [
     {
         id: 1,
         image: blog1,
-        title: 'UI/UX Design Starter with Figma',
-        link: 'https://www.facebook.com/',
-        date : '21',
-        month: 'Mar',
-        year: '2020'
+        title: 'Hacker Rank -(230 programs completed)',
+        link: 'https://www.hackerrank.com/divyathali',
+        date : '11',
+        month: 'Apr',
+        year: '2021'
     },
     {
         id: 2,
         image: blog2,
-        title: 'UI/UX Design Starter with Figma',
-        link: 'https://www.facebook.com/',
-        date : '09',
+        title: 'Guvi-(458 program completed, Hackathon Winner)',
+        link: 'https://www.guvi.in/divyathalishajahan52',
+        date : '13',
         month: 'Dec',
-        year: '2019'
+        year: '2020'
     },
     {
         id: 3,
         image: blog3,
-        title: 'UI/UX Design Starter with Figma',
-        link: 'https://www.facebook.com/',
-        date : '15',
-        month: 'Jun',
-        year: '2018'
+        title: 'Codepen',
+        link: 'https://codepen.io/Divyathalishajahan',
+        date : '1',
+        month: 'Mar',
+        year: '2021'
     },
     {
         id: 4,
         image: blog4,
-        title: 'UI/UX Design Starter with Figma',
-        link: 'https://www.facebook.com/',
-        date : '04',
-        month: 'Aug',
-        year: '2020'
+        title: 'GitHub',
+        link: 'https://github.com/Divyathali',
+        date : '14',
+        month: 'Apr',
+        year: '2021'
     },
     {
         id: 5,
         image: blog5,
-        title: 'UI/UX Design Starter with Figma',
-        link: 'https://www.facebook.com/',
+        title: 'Free Code Camp',
+        link: 'https://www.freecodecamp.org/divyathalishajahan',
         date : '09',
         month: 'Sep',
         year: '2019'
@@ -53,8 +53,8 @@ const blogs = [
     {
         id: 6,
         image: blog5,
-        title: 'UI/UX Design Starter with Figma',
-        link: 'https://www.facebook.com/',
+        title: 'Medium',
+        link: 'https://divyathalishajahan.medium.com/',
         date : '09',
         month: 'Sep',
         year: '2019'
@@ -63,7 +63,7 @@ const blogs = [
         id: 7,
         image: blog3,
         title: 'Test Blogs data1',
-        link: 'https://www.facebook.com/',
+        link: '',
         date : '09',
         month: 'Sep',
         year: '2019'
